@@ -14,9 +14,7 @@ This project uses a Flame Sensor,a Smoke Sensor (MQ-2), a 16x2 LCD Display, a Re
 There is a lot scope for improvement in the project. Feel free the make changes according to your own taste.  
 
   
-## Author
 
-- [@SwarajSamal](https://github.com/SwarajSamal)
 
   
 ## Contribute on
@@ -43,4 +41,8 @@ Demo Video
 [Smart_Kitchen](https://drive.google.com/file/d/1sMgKU21WCWhZRIGa144HSuEa9Dr45tjK/view?usp=sharing)
 
 
+
+## Author
+
+- [@SwarajSamal](https://github.com/SwarajSamal)
 ![hacktober](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg)
