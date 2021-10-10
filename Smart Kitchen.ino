@@ -1,11 +1,3 @@
-/* 
- *  SID TASK - 3
- *  Automated Fire Alarm Sensor
- *  Swaraj Samal
- *  1901106563
- *  B.Tech 3rd year Instrumentation and Electronics Engineering
-*/
-
 
 #include <LiquidCrystal.h>
 #include <SoftwareSerial.h>
